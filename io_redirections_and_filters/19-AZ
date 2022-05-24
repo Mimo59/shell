@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ABc | tr Ac Ze
+echo /tmp/0x02$ | tr Ac Ze
