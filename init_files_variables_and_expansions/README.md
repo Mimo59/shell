@@ -1,0 +1,5 @@
+init_files_variables_and_expansions
+variable
+alias
+expansion
+init files
