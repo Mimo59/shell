@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type fd -empty -name | sort
+find . -type fd -empty -name | ls -l | /n
